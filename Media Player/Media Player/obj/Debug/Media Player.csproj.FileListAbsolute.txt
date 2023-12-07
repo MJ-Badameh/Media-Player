@@ -1,0 +1,38 @@
+E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe.config
+E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe
+E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.pdb
+E:\Projects VS\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csprojAssemblyReference.cache
+E:\Projects VS\Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.exe
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.pdb
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Form2.resources
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.list_oage.resources
+G:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe.config
+G:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe
+G:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.pdb
+G:\Projects VS\Media Player\Media Player\bin\Debug\Interop.WMPLib.dll
+G:\Projects VS\Media Player\Media Player\bin\Debug\AxInterop.WMPLib.dll
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.AssemblyReference.cache
+G:\Projects VS\Media Player\Media Player\obj\Debug\Interop.WMPLib.dll
+G:\Projects VS\Media Player\Media Player\obj\Debug\AxInterop.WMPLib.dll
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.ResolveComReference.cache
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Form1.resources
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Form2.resources
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.list_oage.resources
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media_Player.Properties.Resources.resources
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.GenerateResource.cache
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.csproj.CoreCompileInputs.cache
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.exe
+G:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.pdb
+E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe.manifest
+E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.application
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.exe.manifest
+E:\Projects VS\Media Player\Media Player\obj\Debug\Media Player.application

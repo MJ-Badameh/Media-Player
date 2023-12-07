@@ -1,0 +1,20 @@
+E:\Projects VS\Media Player\Media Player\bin\Release\Media Player.exe.config
+E:\Projects VS\Media Player\Media Player\bin\Release\Media Player.exe.manifest
+E:\Projects VS\Media Player\Media Player\bin\Release\Media Player.application
+E:\Projects VS\Media Player\Media Player\bin\Release\Media Player.exe
+E:\Projects VS\Media Player\Media Player\bin\Release\Media Player.pdb
+E:\Projects VS\Media Player\Media Player\bin\Release\Interop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\bin\Release\AxInterop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Release\Interop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Release\AxInterop.WMPLib.dll
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.csproj.ResolveComReference.cache
+E:\Projects VS\Media Player\Media Player\obj\Release\Media_Player.Form1.resources
+E:\Projects VS\Media Player\Media Player\obj\Release\Media_Player.Form2.resources
+E:\Projects VS\Media Player\Media Player\obj\Release\Media_Player.list_oage.resources
+E:\Projects VS\Media Player\Media Player\obj\Release\Media_Player.Properties.Resources.resources
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.csproj.GenerateResource.cache
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.csproj.CoreCompileInputs.cache
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.exe.manifest
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.application
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.exe
+E:\Projects VS\Media Player\Media Player\obj\Release\Media Player.pdb

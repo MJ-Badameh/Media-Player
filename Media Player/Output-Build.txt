@@ -1,0 +1,11 @@
+﻿1>------ Build started: Project: Media Player, Configuration: Debug Any CPU ------
+1>  COM Reference 'WMPLib' is the interop assembly for ActiveX control 'AxWMPLib' but was marked to be linked by the compiler with the /link flag. This COM reference will be treated as a reference and will not be linked.
+1>  Media Player -> E:\Projects VS\Media Player\Media Player\bin\Debug\Media Player.exe
+Building Media Player...
+2>------ Publish started: Project: Media Player, Configuration: Debug Any CPU ------
+Connecting to 'E:\Projects VS\Media Player\Media Player\publish\'...
+Publishing files...
+Publish success.
+E:\Projects VS\Media Player\Media Player\publish\
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Publish: 1 succeeded, 0 failed, 0 skipped ==========
