@@ -5,7 +5,7 @@ The application on V1.1.1 have many BUG and Just support AVI files. But Properly
 Installation file on the "publish" folder
 If you want USE this app on LIVE you MUST INSTALL .NET Core 3.1 Desktop Runtime 
 for download this app click this link
-https://download.visualstudio.microsoft.com/download/pr/b92958c6-ae36-4efa-aafe-569fced953a5/1654639ef3b20eb576174c1cc200f33a/windowsdesktop-runtime-3.1.32-win-x64.exe
+https://download.visualstudio.microsoft.com/download/pr/b92958c6-ae36-4efa-aafe-569fced953a5/1654639ef3b20eb576174c1cc200f33a/windowsdesktop-runtime-3.1.32-win-x64.exe  
 For USE LIVE app go to "bin" folder, open "Media player.exe"
 
 فارسی زبانان:
